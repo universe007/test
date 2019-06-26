@@ -1,12 +1,1 @@
- {"Version": {
-{
-"version": "2.7",
-"error": "01"
-}
-},
-"Controle": {
-{
-"version": "2.7",
-"error" : "01"
-}
-}
+ 
